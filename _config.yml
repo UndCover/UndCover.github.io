@@ -23,6 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: Projects, description: Projects, url: 'https://github.com/UndCover'}
+    - {title: Steam, description: Steam Link, url: 'http://steamcommunity.com/id/UndCover'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -39,6 +40,7 @@ comment:
 social:
     weibo: yjacking
     github: UndCover
+    steam: UndCover
     # twitter: onevcat
     # gplus: 107108267983477358170
     # mail: onev@onevcat.com
