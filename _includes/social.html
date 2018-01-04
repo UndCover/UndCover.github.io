@@ -41,6 +41,16 @@
   </li>
   {% endif %}
 
+  {% if site.social.steam %}
+  <!-- Steam -->
+  <li class="navigation__item">
+    <a href="https://steamcommunity.com/id/{{site.social.gplus}}" title="@{{site.social.steam}}的Steam" target="_blank">
+      <i class='social fa fa-steam-square'></i>
+      <span class="label">Steam</span>
+    </a>
+  </li>
+  {% endif %}
+
   <!-- RSS -->
   <li class="navigation__item">
     <a href="/feed.xml" rel="author" title="RSS" target="_blank">
@@ -59,14 +69,5 @@
   </li>
   {% endif %}
 
-  {% if site.social.steam %}
-  <!-- Steam -->
-  <li class="navigation__item">
-    <a href="https://steamcommunity.com/id/{{site.social.gplus}}" title="@{{site.social.steam}}的Steam" target="_blank">
-      <i class='social fa fa-steam-square'></i>
-      <span class="label">Steam</span>
-    </a>
-  </li>
-  {% endif %}
   </ul>
 </nav>
