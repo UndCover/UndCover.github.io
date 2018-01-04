@@ -1,8 +1,8 @@
 # Basic
 title: UndCover
-subtitle: Time you enjoy wasting,was not wasted.
-welcome_message: <a href="https://github.com/UndCover" target="_blank">Welcome</a>
-description: Nothing
+# subtitle: Keep Calm and Drink More Water
+# welcome_message: <a href="https://github.com/UndCover" target="_blank">Welcome</a>
+description: Time you enjoy wasting,was not wasted.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: Projects, url: 'https://github.com/UndCover'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
