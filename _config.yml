@@ -1,7 +1,7 @@
 # Basic
 title: UndCover
 subtitle: Time you enjoy wasting,was not wasted.
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+welcome_message: <a href="https://github.com/UndCover" target="_blank">Welcome</a>
 description: Nothing
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: yjacking
+    github: UndCover
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    # mail: onev@onevcat.com
 
 # Google Analytics
 ga:
